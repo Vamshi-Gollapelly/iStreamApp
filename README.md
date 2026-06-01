@@ -10,7 +10,7 @@ An Android video playlist manager that lets users register, log in, and build a 
 
 | Login | Sign Up | Home | Playlist |
 |---|---|---|---|
-| *(screenshot)* | *(screenshot)* | *(screenshot)* | *(screenshot)* |
+| ![Login](login-screen.png) | ![Sign Up](signup-screen.png)  ![Home](Home-screen.png)   ![Playlist](Playlist-screen.png) |
 
 ---
 
