@@ -6,11 +6,9 @@ An Android video playlist manager that lets users register, log in, and build a 
 
 ## Screenshots
 
-> Add screenshots after running the app on an emulator
-
 | Login | Sign Up | Home | Playlist |
 |---|---|---|---|
-| ![Login](login-screen.png) | ![Sign Up](signup-screen.png) | ![Home](home-screen.png) | ![Playlist](Playlist-screen.png) |
+| ![Login](login-screen.png) | ![Sign Up](signup-screen.png) | ![Home](home-screen.png) | ![Playlist](playlist-screen.png) |
 ---
 
 ## Features
